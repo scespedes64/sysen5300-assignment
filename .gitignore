@@ -219,3 +219,12 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 .Rproj.user
+node_modules/
+**/node_modules/
+venv/
+**/venv/
+.venv/
+__pycache__/
+**/__pycache__/
+.DS_Store
+dist/
